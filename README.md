@@ -76,5 +76,3 @@ This Excel dashboard analyzes global video game sales performance by console, ge
 * How do regional markets differ?
 * Are sales declining in recent years?
 * Which publishers dominate the industry?
-
-Do high critic scores correlate with higher sales?
